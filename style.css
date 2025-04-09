@@ -51,7 +51,7 @@ nav a:hover {
     color: #f9e8cb;
 }
 
-/* Main Content Styles */
+
 main {
     background-color: white;
     padding: 25px;
@@ -70,7 +70,7 @@ p {
     margin-bottom: 15px;
 }
 
-/* Photo Gallery Styles */
+
 .photo-container {
     text-align: center;
     margin: 20px 0;
